@@ -16,11 +16,11 @@
         "secrets": [
           {
             "secretName": "exampleSecret1",
-            "secretValue": "secretVaule1"
+            "secretValue": "secretVaule123"
           },
           {
             "secretName": "exampleSecret2",
-            "secretValue": "secretValue2"
+            "secretValue": "secretValue234"
           }
         ]
       }
