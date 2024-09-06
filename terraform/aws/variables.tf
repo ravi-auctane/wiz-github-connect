@@ -12,7 +12,7 @@ variable "db_username" {
 }
 
 variable "db_password" {
-  default = "kHJ!4dusp7A#Xf21URhhZ1#"
+  default = "123kHJ!4dusp7A#Xf21URhhZ1#"
 }
 
 variable "default_tags" {
