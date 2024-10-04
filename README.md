@@ -1,1 +1,1 @@
-# wiz-github-connect
+# wiz-github-connect-test
